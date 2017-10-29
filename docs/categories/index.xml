@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on crass_sandwich</title>
+    <link>https://crass-sandwich.com/categories/</link>
+    <description>Recent content in Categories on crass_sandwich</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2017 Chris Janidlo</copyright>
+    
+	<atom:link href="https://crass-sandwich.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
