@@ -1,0 +1,4 @@
+[submodule "themes/cocoa-eh"]
+	path = themes/cocoa-eh
+	url = https://github.com/crassSandwich/cocoa-eh-hugo-theme.git
+	branch = master
