@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2017 Chris Janidlo</copyright>
-    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://crass-sandwich.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://crass-sandwich.com/projects/projects/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://crass-sandwich.com/projects/projects/</guid>
+      <description>I made these!</description>
+    </item>
     
     <item>
       <title>Advanced Infiltration Management System</title>
@@ -20,15 +29,6 @@
       <guid>https://crass-sandwich.com/projects/ld39/</guid>
       <description>My entry for Ludum Dare 39. Made in 48 hours using Unity, Blender, Cubase, and bfxr.
 A score attack FPS about defending the Pentagon from power-hungry viruses In a cyberpunk 1980s, you are a new recruit to the NSA’s Advanced Infiltration Management System (AIMS) program, which develops and operates a manual firewall. The Pentagon owns a valuable plot of cyber-space; the network situated there is constantly under siege from malicious (probably communist) actors.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://crass-sandwich.com/projects/projects/</link>
-      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
-      
-      <guid>https://crass-sandwich.com/projects/projects/</guid>
-      <description>I made these!</description>
     </item>
     
   </channel>
