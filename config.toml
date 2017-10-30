@@ -7,7 +7,7 @@ languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "docs"
 author = "Chris Janidlo"
-title = "crass_sandwich"
+title = "crass sandwich"
 disqusshortname = ""
 pluralizelisttitles = false
 
