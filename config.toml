@@ -11,8 +11,8 @@ title = "crass_sandwich"
 disqusshortname = ""
 pluralizelisttitles = false
 
-# [permalinks]
-# blog = "blog/:slug/"
+[permalinks]
+blog = "blog/:slug/"
 
 [params]
 dateform = "Jan 2, 2006"
