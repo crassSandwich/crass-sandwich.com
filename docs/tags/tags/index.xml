@@ -6,8 +6,7 @@
     <description>Recent content in Tags on crass sandwich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2017 Chris Janidlo</copyright>
-    <lastBuildDate>Sat, 09 Dec 2017 18:59:35 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://crass-sandwich.com/tags/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +14,7 @@
     <item>
       <title>GriTTY</title>
       <link>https://crass-sandwich.com/projects/gritty/</link>
-      <pubDate>Sat, 09 Dec 2017 18:59:35 -0500</pubDate>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://crass-sandwich.com/projects/gritty/</guid>
       <description>Inspired by 80s hacker culture and the combat of Monster Hunter, GriTTY (working title) is a real time, top down action game controlled exclusively through terminal commands. Combat is deliberate and tense, and because every action has to be keyed out and entered in, there is no time for excess. The combat interface is also thoroughly configurable&amp;mdash;users may define a limited amount of aliases, which allow combos to be entered in a single command, not unlike Unix shell aliases.</description>

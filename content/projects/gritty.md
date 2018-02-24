@@ -1,7 +1,7 @@
 +++
 title = "GriTTY"
 description = "wip terminal-based game"
-date = 2017-12-09T18:59:35-05:00
+date = "2017-12-09"
 draft = false
 tags = ["tags"]
 +++
