@@ -6,19 +6,11 @@
     <description>Recent content on crass sandwich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright © 2019 Chris Janidlo</copyright>
+    <lastBuildDate>Sat, 28 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://crass-sandwich.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>GriTTY</title>
-      <link>https://crass-sandwich.com/projects/gritty/</link>
-      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://crass-sandwich.com/projects/gritty/</guid>
-      <description>Inspired by 80s hacker culture and the combat of Monster Hunter, GriTTY (working title) is a real time, top down action game controlled exclusively through terminal commands. Combat is deliberate and tense, and because every action has to be keyed out and entered in, there is no time for excess. The combat interface is also thoroughly configurable&amp;mdash;users may define a limited amount of aliases, which allow combos to be entered in a single command, not unlike Unix shell aliases.</description>
-    </item>
     
     <item>
       <title>Home</title>
@@ -26,7 +18,7 @@
       <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://crass-sandwich.com/home/</guid>
-      <description>I like video games so I try to make them. Game jams are my jam. Right now I&amp;rsquo;m a student at the University of Rochester, where I study Computer Science and Music. I&amp;rsquo;m also developing a Hololens application to train doctors on drug-to-drug interactions in the treatment of HIV, and TA-ing for the CS department&amp;rsquo;s core AI course. In my free time I play bass for a variety of ensembles, inclusing UR Symphony Orchestra and ROC Players&amp;rsquo; upcoming production of Spring Awakening.</description>
+      <description>I like video games so I try to make them. Game jams are my jam. Right now I&amp;rsquo;m working on an online card game based on typing; play the pre-pre-pre-alpha demo here! More on that coming soon.</description>
     </item>
     
     <item>
